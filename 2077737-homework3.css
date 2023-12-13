@@ -1,0 +1,44 @@
+body {
+    background-color: #f5f5f5; 
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+h1,
+h4 
+{
+    color: #007bff;
+}
+
+th {
+    background-color: #007bff; 
+    color: #fff;
+}
+
+
+a {
+    color: #007bff; 
+}
+
+a:visited {
+    color: #4b0082; 
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+input[type="submit"],
+input[type="reset"],
+input[type="button"] {
+    background-color: #28a745; 
+    color: #fff; 
+    padding: 10px 15px;
+    cursor: pointer;
+    border: none;
+}
